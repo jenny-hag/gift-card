@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T17:23:57.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pm9SOomJ5mQQ-LOLrE_y" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-27T20:36:41.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A-Qd_6ElObz_vmxX4cbt" version="20.5.3" type="github" pages="2">
   <diagram id="ipiIzSi4Rqk2zELGQmsH" name="Flow">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,17 +152,6 @@
             <mxPoint x="333" y="330" as="sourcePoint" />
             <mxPoint x="333" y="232.01" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="WhGp4lucgsvxF-tLxjaF" name="Inspiration">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="J306Q9vjD94MIWz968-o-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.oracle.com/cd/E17952_01/x-devapi-userguide-en/images/plantuml-3fb9f98a36e345d538e7df2235eac467f1246121.png;" parent="1" vertex="1">
-          <mxGeometry x="140" y="220" width="520" height="296" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
